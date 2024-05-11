@@ -8,10 +8,10 @@ The key concept behind non-invasive DBS is **temporal interference (TI)**. When 
 * **Objective:** Investigate the feasibility of non-invasive DBS for Parkinson’s disease management.
 * **Focus Area:** Brain’s subthalamic nucleus (STN) region, crucial for controlling Parkinson’s symptoms.
 * **Methodology:**
-- Computational modeling techniques
-- MRI-based electrode positioning
-- Simulation of electric field envelopes
+  - Computational modeling techniques
+  - MRI-based electrode positioning
+  - Simulation of electric field envelopes
 * **Results:**
-- Accurate stimulation of the STN region
-- Minimal impact on adjacent brain areas
-- Proposed optimal electrode configuration
+  - Accurate stimulation of the STN region
+  - Minimal impact on adjacent brain areas
+  - Proposed optimal electrode configuration
